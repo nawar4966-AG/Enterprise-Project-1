@@ -7,8 +7,8 @@ vtp password 1234
 interface range f0/5 - 10  
 switchport mode trunk  
 ex  
-interface range f0/5 - 8 
-channel-group 2 mode passive  
+interface range f0/5 - 8  
+channel-group 2 mode passive    
 ex  
 interface range f0/1 - 2  
 switchport access vlan 10  
@@ -16,7 +16,7 @@ interface range f0/3 - 4
 switchport access vlan 20  
 ex  
 spanning-tree mode pvst   
-spanning-tree vlan 10,20 root primary 
+spanning-tree vlan 10,20 root primary  
 spanning-tree vlan 30,40 root secondary  
 interface range f0/1 - 4  
 switchport mode access  
