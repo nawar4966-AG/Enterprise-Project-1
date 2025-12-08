@@ -1,6 +1,7 @@
 # Enterprise LAN + Multi-Hop WAN (CCNA-Level Project)
 ## Topology 
-<img width="1758" height="697" alt="image" src="https://github.com/user-attachments/assets/986506e9-4021-4e42-98d7-47d40380ea62" />
+<img width="1717" height="701" alt="image" src="https://github.com/user-attachments/assets/6935afbb-11df-4f0c-bd78-2e551585187c" />
+
 
 ## Objective
 A complete CCNA-level enterprise LAN and multi-hop WAN project implementing VLANs, STP, EtherChannel, DHCP, ACLs, NAT, SSH, inter-VLAN routing, and OSPF to provide secure, scalable connectivity from internal hosts to a remote server through multiple ISP routers.
